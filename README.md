@@ -52,7 +52,7 @@ The model is a simple **Convolutional Neural Network (CNN)** with:
    - The trained model predicts the class of a custom image provided.
 
 ## **Results**
-- **Test Accuracy**: ~80% (varies based on training and dataset splits).
+- **Test Accuracy**: 70.24% (varies based on training and dataset splits).
 
 ### Visualization of Training and Validation:
 1. **Accuracy Plot**:
